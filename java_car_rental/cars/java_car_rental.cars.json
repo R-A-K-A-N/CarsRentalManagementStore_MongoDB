@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67002c2f478f4f4ca4e5faea"
+  },
+  "car_id": 2,
+  "brand_id": 2,
+  "model": "BMW X3",
+  "fuel": "Petrol",
+  "color": "Blue",
+  "class": "X3",
+  "passengers": 8,
+  "gearbox": "automatic",
+  "price": 10000,
+  "air_conditioning": "yes",
+  "air_bag": "yes",
+  "sunroof": "no",
+  "heated_seats": "no",
+  "nav_system": "yes",
+  "bluetooth": "yes",
+  "electric_windows": "yes",
+  "gps": "yes"
+},
+{
+  "_id": {
+    "$oid": "6701a1643c73630b08393b8c"
+  },
+  "car_id": 1,
+  "brand_id": 14,
+  "model": "MAYBACH S450",
+  "fuel": "Gasoline",
+  "color": "Black",
+  "class": "S450",
+  "passengers": 4,
+  "gearbox": "automatic",
+  "price": 2000,
+  "air_conditioning": "yes",
+  "air_bag": "yes",
+  "sunroof": "yes",
+  "heated_seats": "yes",
+  "nav_system": "yes",
+  "bluetooth": "yes",
+  "electric_windows": "yes",
+  "gps": "yes"
+},
+{
+  "_id": {
+    "$oid": "67024366714e992f2b064890"
+  },
+  "car_id": 3,
+  "brand_id": 15,
+  "model": "Mitsubishi Xforce GLX",
+  "fuel": "Diesel",
+  "color": "Yellow",
+  "class": "Xforce GLX",
+  "passengers": 6,
+  "gearbox": "automatic",
+  "price": 7000,
+  "air_conditioning": "yes",
+  "air_bag": "no",
+  "sunroof": "yes",
+  "heated_seats": "yes",
+  "nav_system": "yes",
+  "bluetooth": "no",
+  "electric_windows": "yes",
+  "gps": "yes"
+},
+{
+  "_id": {
+    "$oid": "670d6ef0aeda265ae0134425"
+  },
+  "car_id": 4,
+  "brand_id": 5,
+  "model": "GMC 123456",
+  "fuel": "Bioethanol",
+  "color": "Red",
+  "class": "123456",
+  "passengers": 4,
+  "gearbox": "automatic",
+  "price": 5600,
+  "air_conditioning": "yes",
+  "air_bag": "no",
+  "sunroof": "yes",
+  "heated_seats": "yes",
+  "nav_system": "yes",
+  "bluetooth": "yes",
+  "electric_windows": "yes",
+  "gps": "no"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6701a18a3c73630b08393ba0"
+  },
+  "location_id": 1,
+  "city": "TP. Hồ Chí Minh",
+  "address": "127 Son Ky"
+},
+{
+  "_id": {
+    "$oid": "6701a42d4554d53c45a01210"
+  },
+  "location_id": 2,
+  "city": "An Giang",
+  "address": "177 Hung Vuong"
+},
+{
+  "_id": {
+    "$oid": "6701a4384554d53c45a01213"
+  },
+  "location_id": 3,
+  "city": "An Giang",
+  "address": "177 Hung Vuong"
+},
+{
+  "_id": {
+    "$oid": "6701a47f90d81348313be931"
+  },
+  "location_id": 5,
+  "city": "Tiền Giang",
+  "address": "22 Hoang Van Thu"
+},
+{
+  "_id": {
+    "$oid": "670242409c668b05a91541ee"
+  },
+  "location_id": 6,
+  "city": "Lào Cai",
+  "address": "55 Nguyen Van Linh"
+}]

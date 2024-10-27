@@ -1,0 +1,1 @@
+mấy dữ liệu trong này là dữ liệu bọn em thêm từ câu lệnh vô nên là sợ máy khác nó không tương thích được với ObjectID nên là dựa vào database mà em tích góp lại viết thành câu lệnh InsertMany vô lấy dữ liệu từ các dữ liệu mà em đã làm

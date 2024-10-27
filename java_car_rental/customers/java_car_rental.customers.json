@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67002cae478f4f4ca4e5fb0e"
+  },
+  "customer_id": 1,
+  "fullname": "Desman Nguyen",
+  "birthday": "2024-10-09",
+  "phone": "09778657785",
+  "email": "desman@gmail.com",
+  "address": "123 Son Ky"
+},
+{
+  "_id": {
+    "$oid": "6701a1b13c73630b08393bab"
+  },
+  "customer_id": 2,
+  "fullname": "Dien Le",
+  "birthday": "2024-10-23",
+  "phone": "09778657779",
+  "email": "dienle@gmail.com",
+  "address": "22 Hoang Van Thu"
+}]

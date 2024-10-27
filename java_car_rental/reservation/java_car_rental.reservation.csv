@@ -1,0 +1,4 @@
+_id,book_id,car_id,customer_id,pickup_city,pickup_address,pickup_date,pickup_time,dropoff_city,dropoff_address,dropoff_date,dropoff_time,total_price
+67003b1bde2ddf35765825a9,2,1,1,Lào Cai,55 Nguyen Van Linh,2024-10-15,3:00am,TP. Hồ Chí Minh,127 Son Ky,2024-10-22,4:30am,14000
+6701a1e03c73630b08393bc5,1,2,2,Tiền Giang,22 Hoang Van Thu,2024-10-15,3:00am,TP. Hồ Chí Minh,127 Son Ky,2024-10-22,4:30am,70000
+670d6fe7aeda265ae01344d8,3,2,2,An Giang,177 Hung Vuong,2024-10-22,12:30am,Lào Cai,55 Nguyen Van Linh,2024-10-24,4:00am,20000

@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "67003b1bde2ddf35765825a9"
+  },
+  "book_id": 2,
+  "car_id": 1,
+  "customer_id": 1,
+  "pickup_city": "Lào Cai",
+  "pickup_address": "55 Nguyen Van Linh",
+  "pickup_date": "2024-10-15",
+  "pickup_time": "3:00am",
+  "dropoff_city": "TP. Hồ Chí Minh",
+  "dropoff_address": "127 Son Ky",
+  "dropoff_date": "2024-10-22",
+  "dropoff_time": "4:30am",
+  "total_price": 14000
+},
+{
+  "_id": {
+    "$oid": "6701a1e03c73630b08393bc5"
+  },
+  "book_id": 1,
+  "car_id": 2,
+  "customer_id": 2,
+  "pickup_city": "Tiền Giang",
+  "pickup_address": "22 Hoang Van Thu",
+  "pickup_date": "2024-10-15",
+  "pickup_time": "3:00am",
+  "dropoff_city": "TP. Hồ Chí Minh",
+  "dropoff_address": "127 Son Ky",
+  "dropoff_date": "2024-10-22",
+  "dropoff_time": "4:30am",
+  "total_price": 70000
+},
+{
+  "_id": {
+    "$oid": "670d6fe7aeda265ae01344d8"
+  },
+  "book_id": 3,
+  "car_id": 2,
+  "customer_id": 2,
+  "pickup_city": "An Giang",
+  "pickup_address": "177 Hung Vuong",
+  "pickup_date": "2024-10-22",
+  "pickup_time": "12:30am",
+  "dropoff_city": "Lào Cai",
+  "dropoff_address": "55 Nguyen Van Linh",
+  "dropoff_date": "2024-10-24",
+  "dropoff_time": "4:00am",
+  "total_price": 20000
+}]

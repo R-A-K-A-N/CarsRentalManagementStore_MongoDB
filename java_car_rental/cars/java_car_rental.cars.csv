@@ -1,0 +1,5 @@
+_id,car_id,brand_id,model,fuel,color,class,passengers,gearbox,price,air_conditioning,air_bag,sunroof,heated_seats,nav_system,bluetooth,electric_windows,gps
+67002c2f478f4f4ca4e5faea,2,2,BMW X3,Petrol,Blue,X3,8,automatic,10000,yes,yes,no,no,yes,yes,yes,yes
+6701a1643c73630b08393b8c,1,14,MAYBACH S450,Gasoline,Black,S450,4,automatic,2000,yes,yes,yes,yes,yes,yes,yes,yes
+67024366714e992f2b064890,3,15,Mitsubishi Xforce GLX,Diesel,Yellow,Xforce GLX,6,automatic,7000,yes,no,yes,yes,yes,no,yes,yes
+670d6ef0aeda265ae0134425,4,5,GMC 123456,Bioethanol,Red,123456,4,automatic,5600,yes,no,yes,yes,yes,yes,yes,no
